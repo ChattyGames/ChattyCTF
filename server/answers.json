@@ -1,0 +1,17 @@
+{
+  "b1": "HACK{CLOCK_IN}",
+  "b2": "HACK{SIGNAL_FOUND}",
+  "b3": "HACK{LOOK_BEHIND}",
+  "b4": "HACK{192.168.1.37}",
+  "b5": "HACK{GATE_ONLINE}",
+  "i1": "HACK{ENCODING_IS_NOT_ENCRYPTION}",
+  "i2": "HACK{8080}",
+  "i3": "HACK{BYTES_TELL_STORIES}",
+  "i4": "HACK{PIXELS_HAVE_LAYERS}",
+  "i5": "HACK{192.168.2.44}",
+  "a1": "HACK{NIGHTSHIFT}",
+  "a2": "HACK{RELAY_B}",
+  "a3": "HACK{B}",
+  "a4": "HACK{192.168.2.44}",
+  "a5": "HACK{NIGHTSHIFT_192.168.2.44_8080}"
+}
