@@ -1,0 +1,21 @@
+GHOST RUNNER — CRACK THE CANAL GATE
+
+READY FOR GITHUB + VERCEL
+
+1. Open README.md for setup instructions.
+2. public/ is the student app. Deploy that output folder.
+3. teacher/ contains the Moss answer guide and three-pass review log.
+
+WHAT STUDENTS GET
+Beginner: five guided missions, roughly 30 minutes.
+Intermediate: five deeper cases, roughly 35–45 minutes.
+Advanced: five connected investigations, roughly 45–60 minutes.
+
+Built-in decoders, two kinds of image steganography, network evidence,
+progressive hints, local saving, evidence notes and downloadable handoff.
+
+Students join the shared leaderboard with initials; no school account.
+Read teacher/LEADERBOARD_SETUP.md to connect the database.
+Flag progress syncs online. Evidence notes are NOT automatically sent to Moss. Students download the handoff and submit it as directed.
+
+The app has not been deployed. Full browser/device testing remains.
