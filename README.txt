@@ -1,0 +1,1 @@
+CHATTYGPT V4: Moss-narrated project video, project-brief homepage, five pathways including new Business page, Idea Passport. Assign the separate slide deck through Google Classroom. External sites may require school filtering checks. The video uses approximate thematic visuals, not word-for-word captions. Upload the contents of this ZIP to Vercel.
